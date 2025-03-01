@@ -23,7 +23,8 @@ exit
 
 # docker command
 ```bash
-dockr cp resourcemanager:/output_local ./output```
+dockr cp resourcemanager:/output_local ./output
+```
 
 
 
